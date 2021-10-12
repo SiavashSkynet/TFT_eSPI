@@ -46,3 +46,5 @@ After the bitmaps is (Not modified):
 - 1 byte for Postscript name string length
 - a zero/one terminated character string giving the font name
 - last byte is 0 for non-anti-aliased and 1 for anti-aliased (smoothed)
+
+
